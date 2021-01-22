@@ -1,2 +1,2 @@
-# C21
-writing function which can take arguments
+# collisionAlgorithm
+Algorithm to detect collision between two objects
